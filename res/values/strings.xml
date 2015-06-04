@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dotz</string>
+    <string name="newGame">New Game</string>
+    <string name="aboutButtonText">About</string>
+    <string name="startGameButtonText">Start Game</string>
+    <string name="settingsTitle">Options</string>
+	<string name="ColourTitle">Choose a Colour</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+	<string name="aboutBoxText">Coding, Graphics and Music created by Ryan Burke. \n\n Copyright Ryan Burke 2012. \n\n rb00166@surrey.ac.uk \n\n http://ryanburke.co.uk</string>
+    <string name="gameComplete">Game Complete</string>
+    <string name="drawText">Its a draw!</string>
+    <string name="thanks">Thanks!</string>
+    <string name="lineSelected">This line has already been selected.</string>
+    <string name="sameColour">You have selected the same colour for both players, please change one of the colours chosen.</string>
+    <string name="large">Large</string>
+    <string name="small">Small</string>
+    <string name="okay">Okay</string>
+    <string name="instructions">Instructions</string>
+    <string name="instructionsText">Starting with an empty grid of dots, 2 players take turns, adding a single horizontal or vertical line between two unjoined adjacent dots. You can do this by pressing your finger in between any 2 dots.\n\n A player who completes the fourth side of a 1×1 box earns one point and takes another turn. \n\n The game ends when no more lines can be placed. The winner of the game is the player with the most points.</string>
+    <string name="back">Back</string>
+    <string name="resetTitle">Reset Game?</string>
+    <string name="resetMessage">Are you sure you want to end this game and start a new one?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="congratulations">Congratulations </string>
+    <string name="winner">. You are the winner!</string>
+    <string name="settings">Settings</string>
+    <string name="soundCheckBox">Sound Effects</string>
+    <string name="bot">Play against Computer?</string>
+    <string name="cpudifficulty">Computer Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="soundEffects">Sound Effects</string>
+    <string name="gameSettings">Game Settings</string>
+    <string name="notyourturn">Sorry, it is not your turn. You might need to press undo again.</string>
+    <string name="beaten">Sorry, the computer beat you.</string>
+    <string name="sameColourTitle">Same colour selected.</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="cyan">Cyan</string>
+    <string name="yellow">Yellow</string>
+    <string name="credits">Credits and Coursework Info</string>
+    <string name="creditsTitle">Credits and Coursework Info</string>
+    <string name="credittext">Code written in Java using Eclipse. \n\nSound recorded in Audacity. \n\nGraphics created in Photoshop CS6.</string>
+    <string name="mightMiss">Things you might miss</string>
+    <string name="thingsmissed">Pressing the menu button across any of the acitivties will bring up the same instance of the menu. \n\n Game settings can be found in this menu and include toggling Sound Effects and chosing the computer difficulty. These options save on exit and are loaded again when the application is opened again. \n\n When chosing player colours, if a user selects the same colour on both players then when the \'Start Game\' button is pressed they will be presented with an error message. \n\n If a player presses on a line that has already been selected then they will be presented with an error toast message. \n\n When a game is completed the user gets a message to show who was the winner. \n\n The undo button will undo the previous turn even if that turn was the CPU\'s turn, it is up to the user to press undo until it gets to Player 1\'s turn. If they do click while it is the bots turn then they will recieve a message.</string>
+    <string name="computer">Computer</string>  
+    <string name="logoText">The game logo</string>  
+    
+</resources>
